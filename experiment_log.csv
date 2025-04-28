@@ -1,2 +1,0 @@
-Date,Experiment Name,Input File,Model Used,Changes Made,Output Quality,Notes
-2025-03-05,Test 3,ljspeech_sample.wav,HiFi-GAN v2,Increased FFT window size,Improved - Still minor artifacts,Try different loss functions
